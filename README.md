@@ -22,7 +22,7 @@ Currently pursuing my degree in Computer Science and Business System, I’m focu
 
 ## 💼 What You’ll Find in This Portfolio
 
-🔗 **Live Portfolio**: https://rahul-cb25.github.io/newportfolio/
+🔗 **Live Portfolio**: https://rahul-cb25.github.io/myLatestportfolio/#
 
 ✅ About Me Section  
 ✅ Skills Overview  
